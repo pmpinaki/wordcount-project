@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/MyProjectPython/.idea/MyProjectPython.iml" filepath="D:/MyProjectPython/.idea/MyProjectPython.iml" />
+      <module fileurl="file://D:/myPythonProject101/.idea/myPythonProject101.iml" filepath="D:/myPythonProject101/.idea/myPythonProject101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wordcount-project.iml" filepath="$PROJECT_DIR$/.idea/wordcount-project.iml" />
+    </modules>
+  </component>
+</project>
